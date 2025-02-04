@@ -6,11 +6,7 @@ Edu Hub Bangla is a dynamic web application designed to provide high-quality edu
 
 ---
 
-## 📸 Screenshot  
 
-![Edu Hub Bangla Screenshot](https://your-image-link.com) *(Replace with actual screenshot URL)*  
-
----
 
 ## 🛠 Technologies Used  
 
@@ -74,7 +70,7 @@ Edit
   "tailwindcss": "^3.4.17",
   "vite": "^6.0.3"
 }
-🚀 How to Run the Project Locally
+### 🚀 How to Run the Project Locally
 Follow these steps to set up and run Edu Hub Bangla on your local machine:
 
 1️⃣ Clone the Repository
@@ -113,11 +109,8 @@ Visit http://localhost:5173/ to see the project running locally.
 
 📂 GitHub Repository: Edu Hub Bangla Repo
 
-📜 Project Documentation: (Add if available)
 
-👥 Contributors
-Your Name – GitHub Profile
-(Add more contributors if applicable)
+
 
 📜 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
